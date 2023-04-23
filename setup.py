@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "IPYNMrenderer"
 AUTHOR_USER_NAME = "eisame"
-SEC_REPO = "IPYNBrenderer"
+SRC_REPO = "IPYNBrenderer"
 AUTHOR_EMAIL = "___@GMAIL.COM"
 
 

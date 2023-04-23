@@ -1,11 +1,12 @@
-ipywidgets
-notebook
-ensure
-py-youtube
+ipywidgets == 7.6.5
+notebook == 6.4.12
+ensure == 1.0.2
+py-youtube == 1.1.17
 
 # dev requirements
-pytest
+pytest == 7.1.2
 tox
 black
 flake8
 mypy
+-e .
